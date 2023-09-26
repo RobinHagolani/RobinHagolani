@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my GitHub! 
+
+I'm currently (26.09.23) a student in a Java Developer course in Germany. I'm just starting to learn about GitHub.
+
 <!--
 **RobinHagolani/RobinHagolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
