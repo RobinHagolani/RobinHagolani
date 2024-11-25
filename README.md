@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 
 
-I'm currently a student in a Java Developer course in Germany. I'm just starting to learn about GitHub.
+I'm currently a student in a Java Developer course in Germany. 
 
 <!--
 **RobinHagolani/RobinHagolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
