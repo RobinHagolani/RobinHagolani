@@ -1,20 +1,32 @@
-### Hi there 👋
+Hi there! 👋 I'm Robin Hagolani
 
-Welcome to my GitHub! 
+Welcome to my GitHub profile! I'm an aspiring Java developer with a passion for learning, creating, and solving real-world problems through technology. Here's a bit about me:
+🚀 About Me
 
-I'm currently a student in a Java Developer course in Germany. 
+    🌱 Java Enthusiast: I recently completed an 18-month course focused on building web applications using Spring Boot.
 
-<!--
-**RobinHagolani/RobinHagolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🤖 LLM Explorer: I'm deeply interested in large language models (LLMs) and am currently exploring how to train and integrate LLMs locally into Spring Boot applications.
 
-Here are some ideas to get you started:
+    🧘‍♂️ Mindfulness Meets Tech: My next project is a meditation app, combining technology with mindfulness to help people find balance in their daily lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills & Tools
+
+    Programming Languages: Java, learning Python and Kotlin 
+
+    Frameworks: Spring Boot
+
+    Databases: MySQL, PostgreSQL
+
+    Other Tools: Docker, Git, IntelliJ IDEA
+
+🌟 Current Goals
+
+    Learn more about training and deploying LLMs locally.
+
+    Build innovative applications that bring value to users.
+
+    Collaborate with like-minded developers on exciting projects.
+
+📫 Let's Connect!
+
+Feel free to reach out if you'd like to collaborate or discuss ideas related to Java development, LLMs, or mindfulness apps.
